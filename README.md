@@ -20,6 +20,12 @@ The dataset contains many segmented nuclei images. Images were acquired under a 
 
 -- Resnet 101 folder has python files and instructions to run resnet code are given in instructions.txt
 
+-- Results folder has the output from Mask RCNN
+
+-- Research Paper folder has description of various models and visualizations
+
+-- Screenshots folder holds images and screenshots of training and architecture
+
 
 
 

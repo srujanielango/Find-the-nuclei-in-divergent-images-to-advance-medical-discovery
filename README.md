@@ -10,6 +10,14 @@ Data source: https://www.kaggle.com/c/data-science-bowl-2018/data
 
 The dataset contains many segmented nuclei images. Images were acquired under a variety of conditions and vary in the cell type, magnification and imaging modality. The dataset is split into train and test images. There are 670 train samples and around 4000 test samples. This dataset split shows there are more test samples than train ones. 
 
+Models
+
+-- CNN, U-Net codes are available in SummaryOfModels notebook
+-- SummaryofModels notebook also contains architecture explanantion and Exploratory data analysis of nuclei dataset
+-- Mask RCNN folder has python files and instructions to run mask rcnn are given in instructions.txt
+-- Resnet 101 folder has python files and instructions to run resnet code are given in instructions.txt
+
+
 
 
 

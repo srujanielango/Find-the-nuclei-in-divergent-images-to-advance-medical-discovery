@@ -1,0 +1,9 @@
+parameters are given in main.py
+edit the parameters according to your dataset
+
+give train paths in train.txt
+validation paths in val.txt
+test paths in test.txt
+
+set train steps
+

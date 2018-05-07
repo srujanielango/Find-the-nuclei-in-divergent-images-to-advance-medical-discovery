@@ -1,0 +1,9 @@
+Train the model from imagenet weights using the following commans
+
+python nucleus.py train --dataset=/path/to/dataset --subset=train --weights=imagenet
+
+
+Trained model gets stored in root directory in .h5 format
+Generate nuclei masks for test images using following command
+
+python nucleus.py detect --dataset=/path/to/dataset --subset=stage1_test --weights=<last or /path/to/weights.h5>

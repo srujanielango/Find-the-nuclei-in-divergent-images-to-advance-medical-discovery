@@ -13,8 +13,11 @@ The dataset contains many segmented nuclei images. Images were acquired under a 
 Models
 
 -- CNN, U-Net codes are available in SummaryOfModels notebook
+
 -- SummaryofModels notebook also contains architecture explanantion and Exploratory data analysis of nuclei dataset
+
 -- Mask RCNN folder has python files and instructions to run mask rcnn are given in instructions.txt
+
 -- Resnet 101 folder has python files and instructions to run resnet code are given in instructions.txt
 
 

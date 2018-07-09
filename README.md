@@ -12,7 +12,7 @@ The dataset contains many segmented nuclei images. Images were acquired under a 
 
 ## Models
 
--- CNN, U-Net codes are available in Final_blog notebook
+-- CNN, U-Net codes are available in Final_blog.ipynb notebook
 
 -- Final_blog.ipynb notebook also contains architecture explanantion and Exploratory data analysis of nuclei dataset
 
